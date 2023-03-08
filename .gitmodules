@@ -1,3 +1,6 @@
 [submodule "lib/go-lesson-1"]
 	path = lib/go-lesson-1
 	url = https://github.com/DuckMingBrother/go-lesson-1.git
+[submodule "lib/go-lesson-2"]
+	path = lib/go-lesson-2
+	url = https://github.com/DuckMingBrother/go-lesson-2.git
